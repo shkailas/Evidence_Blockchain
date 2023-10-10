@@ -1,0 +1,1 @@
+The primary purpose of this program is to establish a secure chain of custody for forensic evidence items. In addition, it incorporates a crucial layer of protection by employing hashing algorithms to verify the authenticity and integrity of previous inputs, effectively preventing any unauthorized tampering with the evidence.
